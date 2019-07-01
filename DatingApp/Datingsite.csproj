@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{FA53FB61-35AD-4867-94BF-BC915AF1BBB8}</ProjectGuid>
+    <ProjectGuid>{5134AE39-EA01-4B78-8846-51CF7D2F94C9}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DatingApp</RootNamespace>
-    <AssemblyName>DatingApp</AssemblyName>
+    <RootNamespace>Datingsite</RootNamespace>
+    <AssemblyName>Datingsite</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
@@ -86,8 +86,6 @@
     <Content Include="css\owl.theme.default.css" />
     <Content Include="css\responsive.css" />
     <Content Include="css\style.css" />
-    <Content Include="Datingsite.csproj" />
-    <Content Include="Datingsite.csproj.user" />
     <Content Include="fonts\Flaticon.svg" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="images\222222.jpg" />
@@ -296,8 +294,8 @@
     <Content Include="fonts\fontawesome-webfont.woff2" />
     <Content Include="fonts\FontAwesome.otf" />
     <Content Include="fonts\_flaticon.scss" />
-    <Content Include="obj\Debug\DatingApp.csproj.CoreCompileInputs.cache" />
-    <Content Include="obj\Debug\DatingApp.csprojAssemblyReference.cache" />
+    <Content Include="obj\Debug\Datingsite.csproj.CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\Datingsite.csprojAssemblyReference.cache" />
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
@@ -323,9 +321,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>17309</DevelopmentServerPort>
+          <DevelopmentServerPort>1071</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:17309/</IISUrl>
+          <IISUrl>http://localhost:1071/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
