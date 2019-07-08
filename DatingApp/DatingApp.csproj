@@ -227,6 +227,8 @@
     <Content Include="images\loader2.gif" />
     <Content Include="images\Logo.png" />
     <Content Include="images\Logo1.png" />
+    <Content Include="images\logo1a.png" />
+    <Content Include="images\logo1b.png" />
     <Content Include="images\logo2.png" />
     <Content Include="images\mob.png" />
     <Content Include="images\mrk.png" />
@@ -255,6 +257,9 @@
     <Content Include="images\slider-home2.jpg" />
     <Content Include="images\slider-home22.jpg" />
     <Content Include="images\slide_img1.jpg" />
+    <Content Include="images\slide_img11.jpg" />
+    <Content Include="images\slide_img12.jpg" />
+    <Content Include="images\slide_img13.jpg" />
     <Content Include="images\slide_img2.jpg" />
     <Content Include="images\slide_img3.jpg" />
     <Content Include="images\slide_img4.jpg" />
